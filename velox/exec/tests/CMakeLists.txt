@@ -41,6 +41,7 @@ add_executable(
   ExpandTest.cpp
   FilterProjectTest.cpp
   FunctionResolutionTest.cpp
+  HashAggProbePerfTest.cpp
   HashJoinBridgeTest.cpp
   HashJoinTest.cpp
   HashBitRangeTest.cpp
